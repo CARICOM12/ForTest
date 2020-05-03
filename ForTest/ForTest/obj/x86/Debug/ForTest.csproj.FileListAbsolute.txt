@@ -1,0 +1,5 @@
+/home/alex/Projects/ForTest/ForTest/bin/Debug/ForTest.exe
+/home/alex/Projects/ForTest/ForTest/bin/Debug/ForTest.pdb
+/home/alex/Projects/ForTest/ForTest/obj/x86/Debug/ForTest.csprojAssemblyReference.cache
+/home/alex/Projects/ForTest/ForTest/obj/x86/Debug/ForTest.exe
+/home/alex/Projects/ForTest/ForTest/obj/x86/Debug/ForTest.pdb
